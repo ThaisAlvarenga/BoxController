@@ -1,5 +1,7 @@
 # BoxController
 
+[Google Slides](https://docs.google.com/presentation/d/1f-3V4PVhcC7Sx5pExYIBedytVGbtZPfy_2iwOybdv8s/edit?usp=sharing)
+
 ## Description 
  This is the 4th prototype iteration of a controller I have been working on for the class ITP course Fast Fun: Physical Controllers for UNITY. 
  
