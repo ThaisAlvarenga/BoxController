@@ -39,7 +39,7 @@ For this iteration, I decided to spend two weeks working on the following:
 - Accessiblity (providing easy use for both experience and inexperience players)
 - Fabrication of a more robust device where users could distinguish the key components (inputs) and operate easily
 
-### Managind Input Values
+### Managing Input Values
 From my third iteration of the controller, many users expressed that they did not feel like the controls of the player movement were accurate 100% of the time, specially the joystick inputs. 
 
 I first tried to use OSC messages, but the wireless nature of the controller was not really adding anything to the game experienced, so I discarded that idea and went back to tailoring my previous code, which used the keyboard library and CC messages. I was able to correctly debounce the button input, however, the joystick kept giving false values every now and then regardless of how I scaled the range of the joystick input.
