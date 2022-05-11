@@ -1,5 +1,5 @@
 
-#include "Mouse.h"
+//#include "Mouse.h"
 #include "Keyboard.h"
 
 //set pin # 
@@ -27,7 +27,7 @@ void setup() {
    Keyboard.begin();
 
   // take control of the mouse:
-  Mouse.begin();
+//  Mouse.begin();
 
 }
 
